@@ -1,5 +1,4 @@
 '''import mathematics function'''
-import Mathematics
 from Mathematics import *
 
 ''' App logic '''
